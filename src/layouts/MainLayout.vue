@@ -92,8 +92,8 @@
 
           <q-item-section side top>
             <q-item-label caption>5 min ago</q-item-label>
-          </q-item-section> </q-item
-        >>
+          </q-item-section>
+        </q-item>
       </q-list>
     </q-drawer>
 
